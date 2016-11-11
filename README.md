@@ -1,2 +1,2 @@
 # Sistema_de_conteo
-Desarrollo de conteo de piezas en tiempo real
+Desarrollo de sistema para el conteo de piezas.
